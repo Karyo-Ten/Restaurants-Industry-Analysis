@@ -100,7 +100,7 @@ These views (`cuisine_by_city`, `city_rating_summary`, etc.) were imported direc
 
 ---
 
-## 🔍 Example Insights Discovered
+## 🔍 Key Insights Discovered
 
 - Delhi and Bangalore have the most cuisine diversity
 - Some brands like Domino's Pizza operate in over 20 cities with hundreds of outlets
